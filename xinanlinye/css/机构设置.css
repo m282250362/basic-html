@@ -1,0 +1,53 @@
+.slider {
+  position: relative;
+  margin: 0 auto;
+  width: 928px;
+  height: 206px;
+  background: url(../images/hy.jpg) no-repeat;
+  background-size: 928px;
+}
+.slider .title {
+  position: absolute;
+  width: 200px;
+  height: 56px;
+  line-height: 56px;
+  top: 150px;
+  left: 10px;
+  background: rgba(19, 143, 62, 0.875);
+  text-align: center;
+}
+.slider.title span {
+  font-size: 28px;
+  color: #fff;
+}
+.content h3 {
+  margin-bottom: 20px;
+  height: 70px;
+  line-height: 70px;
+  font-size: 28px;
+  font-weight: 400;
+  text-align: center;
+  border-bottom: 2px solid #ccc;
+}
+.content ul {
+  width: 800px;
+  margin: 0 auto;
+}
+.ct-items {
+  float: left;
+  margin: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #4caf50;
+}
+.ct-items a {
+  padding: 20px;
+  color: #000;
+}
+.ct-items:hover {
+  background-color: #4caf50;
+}
+.ct-items:hover a {
+  color: #fff;
+}

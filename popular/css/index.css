@@ -1,0 +1,21 @@
+video {
+  display: block;
+  float: left;
+  width: 100%;
+}
+.content {
+  margin-top: 5px;
+  border-top: 2px solid #000;
+}
+.content div {
+  float: left;
+  width: 33.33%;
+}
+.ct-lt {
+  height: 399.96px;
+  background: url(../img/图片.png);
+  background-size: 266.63px 399.96px;
+}
+img {
+  width: 100%;
+}

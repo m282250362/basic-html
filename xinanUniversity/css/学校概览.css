@@ -1,0 +1,30 @@
+.slider {
+  position: relative;
+  height: 268px;
+  background: url(../images/1_f6.jpg) no-repeat top center;
+}
+.slider .title {
+  position: absolute;
+  width: 162px;
+  height: 84px;
+  line-height: 84px;
+  bottom: 0;
+  left: 10px;
+  background: url(../images/left-title.png);
+  text-align: center;
+  color: #fff;
+}
+.slider .title span {
+  font-size: 28px;
+  color: #fff;
+}
+.content h3 {
+  margin-bottom: 20px;
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+  font-weight: 400;
+  border-bottom: 2px solid #ccc;
+  font-size: 24px;
+  color: #0a55a8;
+}

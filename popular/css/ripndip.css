@@ -1,0 +1,48 @@
+.focus {
+  position: relative;
+}
+.focus div {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+.ct-hd h3 {
+  font-size: 48px;
+  text-align: center;
+}
+.ct-hd span {
+  display: block;
+  margin: 10px;
+  padding: 0 10px;
+  float: left;
+  width: 47%;
+  height: 220px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  text-indent: 2em;
+}
+.bd-lt {
+  float: left;
+  width: 48%;
+  margin-right: 10px;
+}
+.bd-lt img:first-child {
+  margin-bottom: 10px;
+}
+.bd-rt {
+  float: left;
+  width: 50%;
+}
+.bd-lt img,
+.bd-rt img {
+  width: 100%;
+}
+.bd-items {
+  float: left;
+  padding: 0 10px;
+  width: 33.33%;
+  box-sizing: border-box;
+}
+.bd-items img {
+  width: 100%;
+}

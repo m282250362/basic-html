@@ -1,0 +1,47 @@
+.ct-hd ul {
+  float: left;
+  width: 70%;
+}
+.ct-hd ul li {
+  float: left;
+  width: 50%;
+}
+.ct-hd dl {
+  display: block;
+  height: 564px;
+  float: left;
+  width: 30%;
+  background-color: black;
+  color: #fff;
+}
+.ct-hd dt {
+  margin-top: 30px;
+  padding: 10px;
+  font-size: 48px;
+  font-weight: 700;
+  text-align: center;
+}
+.ct-hd dd span {
+  display: block;
+  padding: 40px;
+  text-indent: 2em;
+  line-height: 40px;
+}
+img {
+  width: 100%;
+}
+.description {
+  float: left;
+  width: 400px;
+  height: 200px;
+}
+.description span {
+  display: block;
+  width: 200px;
+  margin: 40px auto 0;
+}
+.ct-bd img {
+  float: left;
+  width: 400px;
+  height: 200px;
+}

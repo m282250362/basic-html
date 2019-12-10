@@ -1,0 +1,46 @@
+.slider {
+  position: relative;
+  margin: 0 auto;
+  width: 928px;
+  height: 206px;
+  background: url(../images/实验楼.jpg) no-repeat center center;
+  background-size: 928px;
+}
+.slider .title {
+  position: absolute;
+  width: 200px;
+  height: 56px;
+  line-height: 56px;
+  top: 150px;
+  left: 10px;
+  background: rgba(19, 143, 62, 0.875);
+  text-align: center;
+}
+.slider.title span {
+  font-size: 28px;
+  color: #fff;
+}
+.content h3 {
+  margin-bottom: 20px;
+  height: 70px;
+  line-height: 70px;
+  font-size: 28px;
+  font-weight: 400;
+  text-align: center;
+  border-bottom: 2px solid #ccc;
+}
+.table1,
+.table2 {
+  margin: 0 auto;
+  width: 800px;
+  border-collapse: collapse;
+}
+.table2 td {
+  height: 58px;
+  line-height: 58px;
+  text-align: center;
+  border: 1px solid #000;
+}
+.table2 caption {
+  font-size: 28px;
+}

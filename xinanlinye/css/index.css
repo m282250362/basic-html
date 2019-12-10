@@ -1,0 +1,71 @@
+.slider {
+  height: 260px;
+  background: url(../images/微信图片_20190923223042.jpg) no-repeat center center;
+  background-size: 928px;
+}
+
+.st-lt,
+.st-rt {
+  float: left;
+  margin-top: 10px;
+  width: 48%;
+}
+.st-lt {
+  /* margin: 0 10px 0 16px; */
+  margin-left: 16px;
+  padding-left: 10px;
+}
+.lt-title {
+  margin-bottom: 15px;
+  margin-left: 20px;
+  border-bottom: 2px solid #138f3e;
+}
+
+.lt-title a {
+  font-size: 27px;
+  color: #138f3e;
+}
+.lt-content li {
+  padding: 10px 0;
+}
+.lt-content span {
+  color: #9e9e9e;
+  font-size: 14px;
+}
+.lt-content a {
+  font-size: 14px;
+  color: black;
+}
+.lt-content a:hover {
+  color: #4caf50;
+}
+.rt-content li {
+  padding: 10px 0;
+}
+.rt-content span {
+  display: block;
+  width: 48px;
+  height: 25px;
+  border-radius: 0 0 2px 2px;
+  line-height: 25px;
+  text-align: center;
+}
+span.month {
+  color: #4caf50;
+}
+span.day {
+  float: left;
+  color: #fff;
+  background-color: #4caf50;
+}
+.rt-content a {
+  display: block;
+  float: left;
+  height: 24px;
+  line-height: 24px;
+  font-size: 14px;
+  color: black;
+}
+.rt-content a:hover {
+  color: #4caf50;
+}

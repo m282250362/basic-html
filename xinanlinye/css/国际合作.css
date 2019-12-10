@@ -1,0 +1,22 @@
+.slider {
+  height: 186px;
+  background: url(../images/林荫小道.jpg) no-repeat center;
+  background-size: 1250px;
+}
+.content {
+  padding: 20px 30px 10px;
+}
+.content li {
+  height: 40px;
+  line-height: 40px;
+}
+.content h2 {
+  font-weight: 400;
+  text-align: center;
+}
+.content li a {
+  color: #4caf50;
+}
+.content li a:hover {
+  color: #3caf50;
+}

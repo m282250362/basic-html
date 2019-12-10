@@ -1,0 +1,32 @@
+.title {
+  height: 44px;
+  line-height: 44px;
+  margin: 0 auto;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+}
+.list-box {
+  margin: 0 auto;
+  padding-top: 31px;
+  width: 732px;
+  height: 1419px;
+  background: url(../images/list-title.jpg) no-repeat;
+}
+.list-box li {
+  list-style: none;
+  height: 30px;
+  line-height: 30px;
+  font-size: 14px;
+  text-indent: 14px;
+}
+.list-box ul:nth-child(2n) {
+  background: #f7f3e8;
+}
+.list-box li a {
+  float: left;
+}
+.rt {
+  float: right;
+  color: #af9605;
+}

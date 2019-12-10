@@ -1,0 +1,39 @@
+.ct-hd div {
+  float: left;
+  width: 50%;
+  height: 200px;
+}
+.ct-hd dt {
+  padding: 10px;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+}
+.ct-hd div span {
+  display: block;
+  width: 100%;
+  text-indent: 2em;
+}
+.ct-hd img {
+  width: 100%;
+}
+.bd-items {
+  float: left;
+  width: 50%;
+  height: 200px;
+}
+.bd-items img {
+  width: 100%;
+}
+.description {
+  float: left;
+  width: 800px;
+  height: 200px;
+  margin: 0 auto;
+}
+.description span {
+  display: block;
+  padding: 80px;
+  width: 400px;
+  margin: 0 auto;
+}
